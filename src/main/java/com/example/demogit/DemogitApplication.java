@@ -10,4 +10,5 @@ public class DemogitApplication {
         SpringApplication.run(DemogitApplication.class, args);
     }
 
+    static String jj;
 }
