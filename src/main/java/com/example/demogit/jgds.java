@@ -14,6 +14,7 @@ public class jgds {
         System.out.println(1);
         System.out.println(1);
         System.out.println(1);
-        System.out.println(1);
+        System.out.println(1-1);
     }
+
 }
